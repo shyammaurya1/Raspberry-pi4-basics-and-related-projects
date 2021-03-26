@@ -1,3 +1,5 @@
+#Pogram to turn led bulb on & off on user`s input
+
 import RPi.GPIO as GPIO
 import time
 
