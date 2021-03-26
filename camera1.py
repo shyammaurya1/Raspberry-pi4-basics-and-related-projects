@@ -1,4 +1,5 @@
 #take picture from picamera
+
 from picamera import PiCamera
 import time
 camera  = PiCamera()
